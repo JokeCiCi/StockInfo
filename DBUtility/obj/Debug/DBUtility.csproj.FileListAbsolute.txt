@@ -1,0 +1,14 @@
+S:\StockInfoSystem\CodematicDemo\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+S:\StockInfoSystem\CodematicDemo\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+S:\StockInfoSystem\CodematicDemo\DBUtility\bin\Debug\MySql.Data.dll
+S:\StockInfoSystem\CodematicDemo\DBUtility\bin\Debug\System.Data.SQLite.DLL
+S:\StockInfoSystem\CodematicDemo\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+S:\StockInfoSystem\CodematicDemo\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+S:\StockInfoSystem\CodematicDemo\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb
+S:\StockInfoSystem\StockInfoDownload\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+S:\StockInfoSystem\StockInfoDownload\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+S:\StockInfoSystem\StockInfoDownload\DBUtility\bin\Debug\MySql.Data.dll
+S:\StockInfoSystem\StockInfoDownload\DBUtility\bin\Debug\System.Data.SQLite.DLL
+S:\StockInfoSystem\StockInfoDownload\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+S:\StockInfoSystem\StockInfoDownload\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+S:\StockInfoSystem\StockInfoDownload\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb

@@ -1,0 +1,10 @@
+S:\StockInfoSystem\CodematicDemo\Model\bin\Debug\Maticsoft.Model.dll
+S:\StockInfoSystem\CodematicDemo\Model\bin\Debug\Maticsoft.Model.pdb
+S:\StockInfoSystem\CodematicDemo\Model\obj\Debug\ResolveAssemblyReference.cache
+S:\StockInfoSystem\CodematicDemo\Model\obj\Debug\Maticsoft.Model.dll
+S:\StockInfoSystem\CodematicDemo\Model\obj\Debug\Maticsoft.Model.pdb
+S:\StockInfoSystem\StockInfoDownload\Model\bin\Debug\Maticsoft.Model.dll
+S:\StockInfoSystem\StockInfoDownload\Model\bin\Debug\Maticsoft.Model.pdb
+S:\StockInfoSystem\StockInfoDownload\Model\obj\Debug\ResolveAssemblyReference.cache
+S:\StockInfoSystem\StockInfoDownload\Model\obj\Debug\Maticsoft.Model.dll
+S:\StockInfoSystem\StockInfoDownload\Model\obj\Debug\Maticsoft.Model.pdb
